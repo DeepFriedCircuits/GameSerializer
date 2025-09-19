@@ -4,6 +4,7 @@
 #include "GameFramework/Actor.h"
 
 #include "CoreMinimal.h"
+#include "Engine/GameInstance.h"
 #include "GameFramework/PlayerState.h"
 #include "GameFramework/PlayerController.h"
 #include "GameFramework/GameModeBase.h"
